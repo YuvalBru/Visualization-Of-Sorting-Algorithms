@@ -8,6 +8,7 @@ In the following repository I use a pre-made pygame in order to visualize the fo
 5. Quick Sort
 6. Heap Sort
 7. Cocktail Shaker Sort
+
 I do this as part of a course: "Algorithms for Searching And Sorting" in the Mathematics Department in Ariel University.
 During the course we study the aforementioned sorting algorithms and apply them where the finale task of the course is the following project.
 
